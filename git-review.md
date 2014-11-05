@@ -16,10 +16,10 @@
 #### Get started!
 
 * Display your working directory
-  pwd
+  * pwd
 
 * Initialize a git repository in a newly created local directory
-  * < your answer here >
+  * git init
 
 * Display the status of a repository
   * < your answer here >
