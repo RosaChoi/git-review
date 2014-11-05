@@ -46,7 +46,7 @@
   * git remote set-url origin a_new_url_here
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * git pull
 
 * Show the history of a git repository
   * < your answer here >
