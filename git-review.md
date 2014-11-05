@@ -55,7 +55,8 @@
   * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git checkout HEAD^
+  * Depending on which specific commit in history, the number of ^ will reflect how many steps you want to roll back.
 
 #### You should understand the following:
 
