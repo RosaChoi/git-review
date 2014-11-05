@@ -37,7 +37,7 @@
   * git commit -m $'first line\nsecond line'
 
 * Push your local repository to github (assume your remote is already set)
-  * < your answer here >
+  * git push origin master
 
 * Add a remote to your repository
   * < your answer here >
